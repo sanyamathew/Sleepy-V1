@@ -11,6 +11,7 @@
 		6730B1CC28F0C9F9006582B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6730B1CB28F0C9F9006582B7 /* ContentView.swift */; };
 		6730B1CE28F0C9FA006582B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6730B1CD28F0C9FA006582B7 /* Assets.xcassets */; };
 		6730B1D128F0C9FA006582B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6730B1D028F0C9FA006582B7 /* Preview Assets.xcassets */; };
+		6756BCDC28F4BF19004C8411 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6756BCDB28F4BF19004C8411 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6730B1CB28F0C9F9006582B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6730B1CD28F0C9FA006582B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6730B1D028F0C9FA006582B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6756BCDB28F4BF19004C8411 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; tabWidth = 2; wrapsLines = 1; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6730B1C928F0C9F9006582B7 /* Sleepy_V1App.swift */,
 				6730B1CB28F0C9F9006582B7 /* ContentView.swift */,
+				6756BCDB28F4BF19004C8411 /* CircleImage.swift */,
 				6730B1CD28F0C9FA006582B7 /* Assets.xcassets */,
 				6730B1CF28F0C9FA006582B7 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				6730B1CC28F0C9F9006582B7 /* ContentView.swift in Sources */,
 				6730B1CA28F0C9F9006582B7 /* Sleepy_V1App.swift in Sources */,
+				6756BCDC28F4BF19004C8411 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
